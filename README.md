@@ -1,4 +1,7 @@
 # AMLSassignment
+Assignment for Applied Machine Learning module. 
+From a given dataset of 5000 images, models are trained to predict 5 facial recognition tasks; emotion, glasses, age, human (or cartoon) and hair colour. (Code also cleans poorly labeled images from dataset and any non faces)
+
 
 Libraries used:
 Numpy
